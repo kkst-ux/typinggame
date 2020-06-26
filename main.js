@@ -1,7 +1,7 @@
 'use strict';
 
 {
-  const words = ['kusamaru is unko'];
+  const words = ['kusamaru is unko', 'bandiguu is unko', 'kkst is unko'];
   let word = words[Math.floor(Math.random() * words.length)];
   let loc = 0;
   let score = 0;
